@@ -1,1 +1,3 @@
 O que faz um sistema de controle de versão?
+
+Um sistema de versão permite gerenciar e organizar as diferentes versões (ou uma determinada configuração para um sitema específico) de um software.
